@@ -1,4 +1,5 @@
 # BeMy
+<div align="center">
 
 <img width="294" alt="1" src="https://user-images.githubusercontent.com/45766957/114563943-8c5f5a80-9c78-11eb-877a-f395cbc8255b.png">
 
@@ -12,3 +13,5 @@ the app developed in android studio environment.
 both the idea and the implementation grabbed a lot of attention during the contest.
 
 developed by: Vered Assayag, Elad Israel, Narkis Shallev, Yael Magid, Maor Agai
+
+</div>
