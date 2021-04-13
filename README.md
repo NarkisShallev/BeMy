@@ -8,4 +8,4 @@ the app developed in android studio environment.
 
 both the idea and the implementation grabbed a lot of attention during the contest.
 
-developed by: Vered Assayag, Elad Israel, Narkis Shalev, Yael Magid, Maor Agai
+developed by: Vered Assayag, Elad Israel, Narkis Shallev, Yael Magid, Maor Agai
