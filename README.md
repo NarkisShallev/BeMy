@@ -1,4 +1,7 @@
 # BeMy
+
+<div align="center"><img width="294" alt="1" src="https://user-images.githubusercontent.com/45766957/114563943-8c5f5a80-9c78-11eb-877a-f395cbc8255b.png"></div>
+
 android app developed during an hackathon by our group.
 
 the app's purpose is to create a connection between people with certain disabilities,
